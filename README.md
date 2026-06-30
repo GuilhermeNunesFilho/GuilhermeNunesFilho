@@ -24,5 +24,5 @@ O meu principal ecossistema de projetos e estudos está centralizado aqui:
 
 Estou sempre aberto a novos desafios e oportunidades no mercado de tecnologia!
 
-*   💼 **LinkedIn:** [Seu Nome No LinkedIn](INSIRA_AQUI_O_LINK_DO_SEU_LINKEDIN)
-*   📧 **E-mail:** seu.email@exemplo.com
+*   💼 **LinkedIn:** [Guilherme Nunes Filho](https://www.linkedin.com/in/guilhermenunesfilho)
+*   📧 **E-mail:** filhonune@gmail.com
